@@ -1,2 +1,3 @@
 document.getElementById('body');
 
+sample
