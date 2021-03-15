@@ -1,4 +1,3 @@
-Sample
 <html>
     <head>
         <title>Webapp</title>
